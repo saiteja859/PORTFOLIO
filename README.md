@@ -30,17 +30,9 @@ This is a professional and visually elegant **Personal Portfolio Website** that 
 - Projects section showcases your top work with links to GitHub or live sites  
 - Contact form allows visitors to send direct messages
 
-## 💻 Installation
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/portfolio-website.git
-cd portfolio-website
-
-**2. Open the project**
-You can open the index.html file in any browser, or use a live server extension in VS Code for real-time preview.
-
-## 🌍 Live Demo
+ Live Demo
+[Demo](https://saiteja-portfolio-six.vercel.app/)
 [Demo](https://saiteja-portfolio-six.vercel.app/)
 
 🧠 Use Cases
