@@ -40,8 +40,8 @@ cd portfolio-website
 **2. Open the project**
 You can open the index.html file in any browser, or use a live server extension in VS Code for real-time preview.
 
-🌍 Live Demo
-https://saiteja-portfolio-six.vercel.app/
+## 🌍 Live Demo
+[Click here to view the live website](https://saiteja-portfolio-six.vercel.app/)
 
 🧠 Use Cases
 Online portfolio for job applications
