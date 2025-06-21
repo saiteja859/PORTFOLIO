@@ -31,9 +31,9 @@ This is a professional and visually elegant **Personal Portfolio Website** that 
 - Contact form allows visitors to send direct messages
 
 
- Live Demo
+## Live Demo
 [Demo](https://saiteja-portfolio-six.vercel.app/)
-[Demo](https://saiteja-portfolio-six.vercel.app/)
+
 
 🧠 Use Cases
 Online portfolio for job applications
